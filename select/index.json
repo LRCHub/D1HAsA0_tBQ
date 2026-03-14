@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【東方MV】患部で止まってすぐ溶ける～狂気の優曇華院【IOSYS】",
+  "base_artist": "IOSYS",
+  "createdAt": "2026-03-14T01:37:16.020227Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "患部で止まってすぐ溶ける ~ 狂気の優曇華院",
+      "artist": "IOSYS",
+      "has_synced": false,
+      "path": "select/pl_01_患部で止まってすぐ溶ける_~_狂気の優曇華院_IOSYS.txt"
+    }
+  ]
+}
